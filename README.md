@@ -1,4 +1,4 @@
-# **Garbage Classifier** ♻️  
+# **AI-Based Garbage Classifier** ♻️  
 **An AI-powered Real-Time Waste Detector using Streamlit & TensorFlow**
 
 ---
