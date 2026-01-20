@@ -40,7 +40,7 @@
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/mohammadhashim135/Garbage-Classifier.git
+git clone https://github.com/NithinGJ2005/NithinGJ.git
 cd your-repo-name
 ```
 ### **2. Create a Virtual Environment**
